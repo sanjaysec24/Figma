@@ -191,8 +191,7 @@ Figma
   </script>
 </body>
 </html>
-
-'''
+```
 
 ## OUTPUT:
 <img width="1920" height="1200" alt="Screenshot 2025-11-09 160002" src="https://github.com/user-attachments/assets/77c7340b-a985-4dfc-9626-f73c2c208fde" />
