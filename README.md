@@ -139,7 +139,7 @@ Figma
 </head>
 <body>
 
-  <!-- PAGE 1: LOGIN -->
+ 
   <div class="page active" id="login">
     <div class="logo">CELENZA 2026</div>
     <input type="text" placeholder="Username" id="username">
@@ -147,7 +147,7 @@ Figma
     <button onclick="nextPage('events')">Login</button>
   </div>
 
-  <!-- PAGE 2: EVENTS -->
+ 
   <div class="page" id="events">
     <h2>Events</h2>
     <div class="event-list">
@@ -158,7 +158,7 @@ Figma
     <button onclick="nextPage('register')">Register Now</button>
   </div>
 
-  <!-- PAGE 3: REGISTRATION -->
+
   <div class="page" id="register">
     <div class="logo">CELENZA 2026</div>
     <h2>Registration Form</h2>
@@ -175,7 +175,7 @@ Figma
     <button onclick="nextPage('info')">Submit Form</button>
   </div>
 
-  <!-- PAGE 4: INFO -->
+ 
   <div class="page" id="info">
     <h2>Get ready to be part of the celebration!</h2>
     <div class="logo">CELENZA 2026</div>
